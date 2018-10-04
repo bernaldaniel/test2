@@ -1,0 +1,32 @@
+/*Seleccion por elemento*/
+
+li {
+    color:pink;
+    font-weight: bolder
+}
+
+.hello {
+    color:peru
+}
+
+.parrafo {
+    color:peru;
+}
+
+#name {
+    background-color: yellow;
+}
+
+/* Selector universal */
+
+
+*{
+    border: 1px dotted green;
+}
+
+
+ul *{
+    color:rojo;
+    display:none;
+}
+
