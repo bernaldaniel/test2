@@ -20,13 +20,12 @@ li {
 /* Selector universal */
 
 
-*{
+/* *{
     border: 1px dotted green;
-}
+} */
 
 
-ul *{
+ul * {
     color:rojo;
-    display:none;
 }
 
