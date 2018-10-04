@@ -25,7 +25,15 @@ li {
 } */
 
 
-ul * {
-    color:rojo;
+/* ul * {
+    color:ini rojo;
+} */
+
+li > ul {
+    display: none;
+}
+
+li:hover  ul {
+    display : block;
 }
 
